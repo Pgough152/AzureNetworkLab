@@ -12,6 +12,7 @@ Project consists using Azure to gain familiarity with the cloud service. I start
 
 - <b>Microsoft Azure</b> 
 - <b>Notepad</b>
+- <b>Remote Desktop Connection</b>
 
 <h2>Environments Used </h2>
 
