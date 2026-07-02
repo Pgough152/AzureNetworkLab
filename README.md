@@ -1,6 +1,6 @@
-# AzureNetworkLab
+# AzureLab
 
-<h1>Azure Network</h1>
+<h1>Azure</h1>
 
 
 <h2>Description</h2>
